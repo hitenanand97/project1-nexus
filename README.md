@@ -28,11 +28,12 @@ Implements responsive design practices using media queries and flexible layout t
 - CSS Decorations
 Leverages CSS to add decorative elements, experimenting with styles, fonts, and spacing.
 Uses CSS animations or transitions for subtle, eye-catching effects.
+
 - Form Validation
 Implements basic form validation for the signup page to enhance user input accuracy.
 Provides clear error messages for invalid inputs, ensuring a user-friendly experience.
 
-4. Project Structure
+3. Project Structure
 The project follows the following structure:
 
 project1-nexus/
