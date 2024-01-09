@@ -20,9 +20,11 @@ The Login and Signup Page project is a web development endeavor aimed at creatin
 2.1 Attractive Design
 Utilizes gradient colors for an aesthetically pleasing visual presentation.
 Incorporates modern design elements to create an inviting and user-friendly interface.
+
 2.2 Responsiveness
 Ensures an optimal user experience across various devices and screen sizes.
 Implements responsive design practices using media queries and flexible layout techniques.
+
 2.3 CSS Decorations
 Leverages CSS to add decorative elements, experimenting with styles, fonts, and spacing.
 Uses CSS animations or transitions for subtle, eye-catching effects.
@@ -30,7 +32,7 @@ Uses CSS animations or transitions for subtle, eye-catching effects.
 Implements basic form validation for the signup page to enhance user input accuracy.
 Provides clear error messages for invalid inputs, ensuring a user-friendly experience.
 
-3. Project Structure
+4. Project Structure
 The project follows the following structure:
 
 project1-nexus/
