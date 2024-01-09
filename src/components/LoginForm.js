@@ -18,7 +18,7 @@ const LoginForm = () => {
       }
     if (email === 'hitenanand97@gmail.com' && password === 'anand@1427') {
       setError('');
-      alert('Login successful!');
+      alert('Login successfull!');
     } else {
       setError('Invalid username or password');
     }
