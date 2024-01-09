@@ -61,7 +61,6 @@ Testing methodologies and tools can be implemented based on the specific require
 
 8. Future Enhancements
 Potential improvements and additional features for future development include:
-
 Enhanced user authentication mechanisms.
 Integration with backend services for user data storage.
 User profile customization features.
