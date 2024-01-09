@@ -25,7 +25,7 @@ const SignupForm = () => {
   };
 
   return (
-    <div>
+    <div className='login'>
       <h2>Signup</h2>
       <form>
         <label>

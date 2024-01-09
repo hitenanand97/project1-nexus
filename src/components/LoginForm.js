@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import '../App.css';
 
 const LoginForm = () => {
   const [email, setEmail] = useState('');
@@ -24,12 +25,12 @@ const LoginForm = () => {
   };
 
   return (
-    <div>
-      <h2>Login</h2>
+    <div className='login'>
+      <h2 className='toplogin'>Login</h2>
       <form>
         <label>
           Email:
-          <input type="text" value={email} onChange={(e) => setEmail(e.target.value)} />
+          <input type="text"  value={email} onChange={(e) => setEmail(e.target.value)} />
         </label>
         <br />
         <label>
@@ -42,6 +43,7 @@ const LoginForm = () => {
         </button>
         {error && <p style={{ color: 'red' }}>{error}</p>}
       </form>
+      
     </div>
   );
 };
