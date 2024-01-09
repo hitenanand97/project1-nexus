@@ -1,6 +1,6 @@
 Login and Signup Page Project Documentation
 
-#Table of Contents
+# Table of Contents
 Introduction
 Features
 Project Structure
@@ -17,22 +17,18 @@ License
 The Login and Signup Page project is a web development endeavor aimed at creating an engaging, responsive, and user-friendly login and signup experience. Developed using React.js, the project incorporates basic form validation for the signup page to enhance the user experience.
 
 2. Features
--Attractive Design
+- Attractive Design
 Utilizes gradient colors for an aesthetically pleasing visual presentation.
 Incorporates modern design elements to create an inviting and user-friendly interface.
-<<<<<<< HEAD
--Responsiveness
-=======
 
-2.2 Responsiveness
->>>>>>> 4706cd274687cce4962ca9e99b569497569b94aa
+- Responsiveness
 Ensures an optimal user experience across various devices and screen sizes.
 Implements responsive design practices using media queries and flexible layout techniques.
 
-2.3 CSS Decorations
+- CSS Decorations
 Leverages CSS to add decorative elements, experimenting with styles, fonts, and spacing.
 Uses CSS animations or transitions for subtle, eye-catching effects.
-2.4 Form Validation
+- Form Validation
 Implements basic form validation for the signup page to enhance user input accuracy.
 Provides clear error messages for invalid inputs, ensuring a user-friendly experience.
 
